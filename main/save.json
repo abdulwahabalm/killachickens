@@ -1,0 +1,29 @@
+{
+  "daily": {
+    "date": "2026-02-08",
+    "missions": [
+      {
+        "id": "combo",
+        "text": "Reach a 15 combo",
+        "target": 15,
+        "progress": 4,
+        "done": false
+      },
+      {
+        "id": "dodges",
+        "text": "Dodge 33 eggs (near-miss)",
+        "target": 33,
+        "progress": 7,
+        "done": false
+      },
+      {
+        "id": "corn",
+        "text": "Collect 37 corn",
+        "target": 37,
+        "progress": 37,
+        "done": true
+      }
+    ],
+    "bonus_claimed": false
+  }
+}

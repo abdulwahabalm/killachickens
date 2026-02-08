@@ -1,0 +1,9 @@
+[project]
+name = "killa-chicken-web"
+version = "0.0.1"
+description = "Web build of Killa Chicken via pygbag"
+
+[tool.pygbag]
+entrypoint = "web_main.py"
+width = 960
+height = 540

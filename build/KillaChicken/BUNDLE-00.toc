@@ -1,0 +1,3 @@
+([('KillaChicken',
+   '/Users/aw/Desktop/KillaChicken/dist/KillaChicken',
+   'EXECUTABLE')],)
