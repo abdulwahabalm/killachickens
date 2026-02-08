@@ -23,7 +23,7 @@ jobs:
           python -m pip install pygame pyinstaller
 
       - name: Build executable
-        run: pyinstaller --noconfirm --noupx KillaChicken.spec
+        run: pyinstaller --noconfirm KillaChicken.spec
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
